@@ -1,12 +1,12 @@
-# Terraform Tutorial: Creating an AWS EC2 Instance and an S3 Bucket
+# Terraforming your Data Infrastructure
 
 Welcome to the GitHub repository for the Terraform code used in my tutorial - <b>Terraforming Your Data Infrastructure on AWS: A Hands on guide for Data Engineers </b>. This tutorial provides hands-on guidance for provisioning AWS resources using Terraform.
 
-## Blog Tutorial
+## Hands on Tutorial
 
 If you haven't already, please check out my detailed blog tutorial on Terraform and AWS EC2 and S3 setup. The blog provides context and explanations for the code you find here.
 
-[Read the Blog Tutorial](#link-to-your-blog-tutorial)
+[Read the Tutorial](#https://dev.to/priye/terraforming-your-data-infrastructure-on-aws-a-hands-on-guide-for-data-engineers-58e0)
 
 ## Repository Contents
 
@@ -15,7 +15,7 @@ This repository contains Terraform configuration files and scripts to create the
 - `main.tf`: The main Terraform configuration file defining the AWS EC2 instance and S3 bucket resources.
 - `variables.tf`: Variables used in the Terraform configuration.
 - `outputs.tf`: Output variables defined for retrieving information about the created resources.
-- `scripts/`: Directory containing any supporting scripts, like user data scripts for EC2 instances.
+- `server-script.sh`: user data scripts for EC2 instances.
 
 ## Prerequisites
 
