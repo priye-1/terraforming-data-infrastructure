@@ -33,7 +33,7 @@ To use this Terraform configuration:
 3. Run `terraform plan` to confirm configurations
 4. Run `terraform apply` to create the EC2 instance and S3 bucket.
 
-Remember to follow the steps outlined in the [blog tutorial](#link-to-your-blog-tutorial) for a comprehensive guide.
+Remember to follow the steps outlined in the [blog tutorial](#https://dev.to/priye/terraforming-your-data-infrastructure-on-aws-a-hands-on-guide-for-data-engineers-58e0) for a comprehensive guide.
 
 ## Feedback and Contributions
 
