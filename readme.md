@@ -6,7 +6,7 @@ Welcome to the GitHub repository for the Terraform code used in my tutorial - <b
 
 If you haven't already, please check out my detailed blog tutorial on Terraform and AWS EC2 and S3 setup. The blog provides context and explanations for the code you find here.
 
-[Read the Tutorial](#https://dev.to/priye/terraforming-your-data-infrastructure-on-aws-a-hands-on-guide-for-data-engineers-58e0)
+[Read the Tutorial](https://dev.to/priye/terraforming-your-data-infrastructure-on-aws-a-hands-on-guide-for-data-engineers-58e0)
 
 ## Repository Contents
 
@@ -33,7 +33,7 @@ To use this Terraform configuration:
 3. Run `terraform plan` to confirm configurations
 4. Run `terraform apply` to create the EC2 instance and S3 bucket.
 
-Remember to follow the steps outlined in the [blog tutorial](#https://dev.to/priye/terraforming-your-data-infrastructure-on-aws-a-hands-on-guide-for-data-engineers-58e0) for a comprehensive guide.
+Remember to follow the steps outlined in the [blog tutorial](https://dev.to/priye/terraforming-your-data-infrastructure-on-aws-a-hands-on-guide-for-data-engineers-58e0) for a comprehensive guide.
 
 ## Feedback and Contributions
 
